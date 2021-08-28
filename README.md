@@ -1,4 +1,4 @@
-# zg_beauty_and_hair
+# phone_auth_firebase
 
 A new Flutter project.
 
